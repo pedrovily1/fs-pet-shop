@@ -1,0 +1,22 @@
+[
+  {
+    "age": 7,
+    "kind": "rainbow",
+    "name": "fido"
+  },
+  {
+    "age": 5,
+    "kind": "snake",
+    "name": "Buttons"
+  },
+  {
+    "age": 11,
+    "kind": "bird",
+    "name": "robert"
+  },
+  {
+    "age": 100,
+    "kind": "Dragon",
+    "name": "Fluffy"
+  }
+]
